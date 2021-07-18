@@ -1,3 +1,5 @@
+![Inflame Trade Logo](/images/IT-532.png)
+
 # IFTC-TRC20-smart-contract
 Tron Blockchain smart contract with all features.
 
